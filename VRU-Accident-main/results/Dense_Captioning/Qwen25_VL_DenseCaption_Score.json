@@ -1,0 +1,22 @@
+{
+    "SPICE": 0.149,
+    "METEOR": 0.261,
+    "COMET": 0.682,
+    "ROUGE": {
+        "ROUGE1": {
+            "precision": 0.396,
+            "recall": 0.446,
+            "fmeasure": 0.416
+        },
+        "ROUGE2": {
+            "precision": 0.106,
+            "recall": 0.12,
+            "fmeasure": 0.111
+        },
+        "ROUGEL": {
+            "precision": 0.207,
+            "recall": 0.234,
+            "fmeasure": 0.218
+        }
+    }
+}
