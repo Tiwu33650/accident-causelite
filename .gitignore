@@ -16,3 +16,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+outputs/*
+!outputs/.gitkeep
+outputs/*
+!outputs/.gitkeep
